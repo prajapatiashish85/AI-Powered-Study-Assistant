@@ -1,5 +1,6 @@
 streamlit
 google-genai
+python-dotenv
 langchain
 langchain-community
 langchain-text-splitters
@@ -7,4 +8,5 @@ langchain-huggingface
 sentence-transformers
 faiss-cpu
 pypdf
-python-docx
+pandas
+plotly

@@ -7,6 +7,11 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from google import genai
+st.set_page_config(
+    page_title="AI Study Assistant",
+    page_icon="🎓",
+    layout="wide"
+)
 
 # Load .env from the same folder as app.py
 BASE_DIR = Path(__file__).resolve().parent
@@ -48,19 +53,6 @@ initialize_database()
 initialize_study_plan_table()
 initialize_study_tasks_table()
 initialize_student_profile_table()
-
-
-
-# ---------------------------------------
-# PAGE CONFIG
-# ---------------------------------------
-
-st.set_page_config(
-    page_title="AI Study Assistant",
-    page_icon="🎓",
-    layout="wide"
-)
-
 
 # ---------------------------------------
 # SESSION STATE
