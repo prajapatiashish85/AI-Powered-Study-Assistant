@@ -1,4 +1,17 @@
 # 🎓 AI Powered Study Assistant
+## 🚀 Live Demo
+
+**Try the AI Powered Study Assistant here:**
+
+[🌐 Open Live Application](## 🚀 Live Demo
+
+**Try the AI Powered Study Assistant here:**
+
+[🌐 Open Live Application](https://ai-powered-study-assistant-6385.streamlit.app/)
+
+---)
+
+---
 
 ## 📌 Overview
 
